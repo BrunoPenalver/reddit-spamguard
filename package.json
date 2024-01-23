@@ -1,7 +1,7 @@
 {
   "name": "reddit-publicidad",
   "displayName": "Reddit publicidad",
-  "version": "0.0.1",
+  "version": "0.1",
   "description": "Eliminador de posts patrocinados",
   "author": "brunonicolaspenalver@gmail.com",
   "scripts": {
